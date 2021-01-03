@@ -1,0 +1,5 @@
+rofi.theme: /home/crackdown/.config/rofi/slate.rasi
+rofi.font: Fira Code 11
+rofi.lines: 15
+rofi.drun-icon-theme: La Capitaine
+rofi.show-icons: true
